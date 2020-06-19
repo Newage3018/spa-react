@@ -19,7 +19,15 @@ function App() {
           Learn React
         </a>
       </header>
+      <div className="arti-block">
+      <img src={logo} className="App-logo" alt="logo" />
+      
+      </div>
+
     </div>
+
+    
+
   );
 }
 
