@@ -1,0 +1,28 @@
+.blocks3_flex {
+    margin: 2vh auto;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.first_item {
+    margin-left: 2vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    /* min-width: 10vw;
+    max-width: 30vw; */
+    width: 200px;
+    /* flex: 1 1 10vw; */
+    background-color: green;
+
+}
+
+.first_item h3 {
+}
